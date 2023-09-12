@@ -52,7 +52,7 @@ export const PluginKeys = () => {
 
   return (
     <>
-      <SidebarButton
+      {/* <SidebarButton
         text={t('Plugin Keys')}
         icon={<IconKey size={18} />}
         onClick={() => setIsChanging(true)}
@@ -229,7 +229,7 @@ export const PluginKeys = () => {
             </div>
           </div>
         </div>
-      )}
+      )} */}
     </>
   );
 };

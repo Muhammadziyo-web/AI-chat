@@ -15,7 +15,7 @@ export const Import: FC<Props> = ({ onImport }) => {
   const { t } = useTranslation('sidebar');
   return (
     <>
-      <input
+      {/* <input
         id="import-file"
         className="sr-only"
         tabIndex={-1}
@@ -45,7 +45,7 @@ export const Import: FC<Props> = ({ onImport }) => {
             importFile.click();
           }
         }}
-      />
+      /> */}
     </>
   );
 };
