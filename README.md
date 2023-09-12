@@ -37,9 +37,9 @@
   <p>For questions or issues related to the AI CHAT web project, you can reach out to:</p>
 
 <address>
-        Your Name<br>
-        Your Email<br>
-        Your Website
+        Muhammadziyo<br>
+        mrvaliyev2006@gmail.com<br>
+        <a url="https://muhammadziyo.uz/">muhammadziyo.uz</a>
     </address>
 
   <h2>Acknowledgments</h2>
